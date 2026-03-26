@@ -1,0 +1,37 @@
+h1,h2{color:rgb(134, 0, 134); text-align: center; text-decoration: underline;}
+
+.topicos{color:blueviolet}
+
+body{background-color: rgb(192, 209, 245);}
+
+.rodape{background-color: rgb(141, 174, 247); text-align: center; font-size: 11px;} 
+
+p{color: rgb(77, 35, 12);}
+p::first-letter{font-size: 20px;}
+li{color: rgb(153, 0, 0);}
+
+label{color: rgb(142, 1, 8);}
+
+
+body{font-family: karla;}
+
+.segundo{color: rgb(146, 45, 45);}
+
+table {
+    color:rgb(153, 0, 0); text-align: center;
+    border: 1
+}
+
+caption{
+    color: rgb(58, 63, 17);
+}
+ 
+th{
+    color: rgb(74, 31, 74);
+}
+
+caption{
+    color:rgb(36, 7, 69)
+}
+
+.dalton {color: rgb(255, 47, 61);}
